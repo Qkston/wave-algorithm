@@ -1,0 +1,9 @@
+name = "wavealg"
+description = "Shiny new project"
+version = "0.1.0-dev"
+
+authors = ["Andrey Slynko"]
+maintainers = ["Andrey Slynko <qkston22@gmail.com>"]
+maintainers-logins = ["Qkston"]
+
+executables = ["wavealg"]
